@@ -1,0 +1,7 @@
+train: ./PPE-1/train/images
+test: ./PPE-1/test/images
+val: ./PPE-1/valid/images
+
+nc: 5
+
+names: ['Person','Gloves','Helmet','Vest','Safety Glasses']
